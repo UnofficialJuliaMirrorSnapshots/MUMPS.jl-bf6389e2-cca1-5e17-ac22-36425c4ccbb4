@@ -1,0 +1,12 @@
+*.mod
+MUMPS
+*.o
+*.a
+mtest
+graphchk
+kmetis
+src/metis-5.1.0/build
+src/metis-5.1.0/installed-libs
+src/MUMPS_5.0.1/examples
+*.cov
+*.mem
